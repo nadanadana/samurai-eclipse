@@ -36,3 +36,4 @@ build/
 /src/main/resources/application-test.properties
 
 /src/main/resources/application-development.properties
+.DS_Store
